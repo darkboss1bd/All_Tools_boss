@@ -1,7 +1,7 @@
 # All_Tools_boss
 Termux + Linux All tools 
 
-https://i.postimg.cc/Tw9QQV3M/2025-10-25-105348.png
+(![image](https://i.postimg.cc/Tw9QQV3M/2025-10-25-105348.png)
 
 ```bash
 git clone https://github.com/darkboss1bd/All_Tools_boss.git
